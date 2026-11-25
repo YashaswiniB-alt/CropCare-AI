@@ -75,3 +75,6 @@ CropCare AI provides AI-based preliminary predictions and advisory. It should no
 Project Status
 
 Developed as a student AI project for crop disease identification and farmer assistance.
+
+Demo Video
+https://drive.google.com/file/d/1KjFKcniajsW16GH5n2jOh7wkYffHS50r/view?usp=drivesdk
